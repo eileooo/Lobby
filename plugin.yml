@@ -1,0 +1,7 @@
+name: Lobby
+author: Leonardo
+main: com.leo.lobby.Main
+version: 1.0
+commands: 
+  lobby:
+    description: Go to lobby.
